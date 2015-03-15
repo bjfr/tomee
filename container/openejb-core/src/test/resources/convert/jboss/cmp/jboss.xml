@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<jboss>
+   <enterprise-beans>
+      <entity>
+         <ejb-name>A</ejb-name>
+         <jndi-name>ejb/A</jndi-name>
+      </entity>
+      <session>
+         <ejb-name>C</ejb-name>
+         <jndi-name>ejb/C</jndi-name>
+      </session>
+   </enterprise-beans>
+</jboss>
